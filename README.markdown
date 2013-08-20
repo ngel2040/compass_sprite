@@ -8,6 +8,9 @@
 
 Merges images in the image folder
 
+retina support
+
+
 image folder
 
 filename1.png, filename2.png
